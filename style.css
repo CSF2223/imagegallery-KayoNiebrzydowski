@@ -5,3 +5,36 @@ font color:
 secondary color:   
 tertiary color:    
 */
+
+body{
+    margin: 0;
+}
+
+header{
+    background-color: lightblue;
+     margin: 50;
+     border: 5px solid black;
+     padding: 25px;
+}
+
+h1 {
+    background-color: lightGreen;
+     margin: 50;
+     border: 5px solid black;
+     padding: 25px;
+    
+}
+
+h4{
+    background-color: crimson;
+     margin: 50;
+     border: 5px solid black;
+     padding: 25px;
+}
+
+h6{
+    background-color: yellow;
+     margin: 50;
+     border: 5px solid black;
+     padding: 25px;
+}
